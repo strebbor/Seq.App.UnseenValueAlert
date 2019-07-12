@@ -1,0 +1,14 @@
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\bin\Debug\Seq.App.UnknownCallAlert.dll
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\bin\Debug\Seq.App.UnknownCallAlert.pdb
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\bin\Debug\Seq.Apps.dll
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\bin\Debug\Seq.Apps.pdb
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\bin\Debug\Seq.Apps.xml
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\obj\Debug\Seq.App.UnknownCallAlerts.csproj.CoreCompileInputs.cache
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\obj\Debug\Seq.App.UnknownCallAlerts.csproj.CopyComplete
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\obj\Debug\Seq.App.UnknownCallAlert.dll
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\obj\Debug\Seq.App.UnknownCallAlert.pdb
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\bin\Debug\Serilog.dll
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\bin\Debug\Serilog.pdb
+C:\Users\micher03\Downloads\Seq.App.Exporter-master (1)\Seq.App.New-Call-Alerter\bin\Debug\Serilog.xml

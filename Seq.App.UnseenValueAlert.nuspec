@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0.0</version>
+    <title>SEQ Unseen Value alert</title>
+    <authors>Michelle Robberts</authors>
+    <owners>Michelle Robberts</owners>  
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This app will alert you if a value on an incoming event does not match the predefined whitelist</description>
+    <releaseNotes>First release of this app</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>seq-app First Time call alert unknown call alert whitelist value alert</tags>
+  </metadata>
+</package>
