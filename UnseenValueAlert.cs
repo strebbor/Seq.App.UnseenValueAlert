@@ -1,5 +1,6 @@
 ﻿using Seq.Apps;
 using Seq.Apps.LogEvents;
+using System;
 
 namespace Seq.App.UnseenValueAlert
 {
@@ -29,10 +30,17 @@ namespace Seq.App.UnseenValueAlert
         {
             //get the header property of the event
             string propertyValue = string.Empty;
-            var eventPropertyValue = evt.Data.Properties[Settings_PropertyToWatch];
-            if (eventPropertyValue != null)
+            try
             {
-                propertyValue = eventPropertyValue.ToString();
+                var eventPropertyValue = evt.Data.Properties[Settings_PropertyToWatch];
+                if (eventPropertyValue != null)
+                {
+                    propertyValue = eventPropertyValue.ToString();
+                }
+            }
+            catch (Exception eE)
+            {
+                //this event doesn't have this property, so we are not going to do anything
             }
 
             if (!string.IsNullOrWhiteSpace(propertyValue) && !IsKnownCall(propertyValue))
@@ -46,7 +54,7 @@ namespace Seq.App.UnseenValueAlert
             valueToCheck = valueToCheck.ToUpper();
 
             var isKnownCall = false;
-            isKnownCall = Settings_KnownValues.ToUpper().Contains(valueToCheck);   
+            isKnownCall = Settings_KnownValues.ToUpper().Contains(valueToCheck);
             return isKnownCall;
         }
     }
